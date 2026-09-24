@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+runs/
+*.pt
+*.onnx
+
+badminton-singles-players-4/
+badminton-singles-players-5/
+frames/
+results/
+video/
